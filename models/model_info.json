@@ -1,0 +1,17 @@
+{
+    "data_path": "all_states_of_india.csv",
+    "timestamp": "2025-03-27 02:13:18",
+    "num_dishes": 2696,
+    "best_clustering": "kmeans",
+    "algorithms_used": [
+        "som",
+        "kmeans",
+        "gmm",
+        "dbscan",
+        "hierarchical",
+        "spectral",
+        "ensemble",
+        "weighted_ensemble",
+        "recommendation"
+    ]
+}
